@@ -1,2 +1,2 @@
 # neal_data
- data for neal paper
+ data for [NEAL](https://github.com/gibbona1/neal) paper
